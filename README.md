@@ -1,1 +1,2 @@
-# .github
+# DMPreroll
+A passion project 
